@@ -1,4 +1,4 @@
-# Darkhan Mashirapov's (dannyocean21's) Projects Repository
+# Darkhan Mashirapov's Programming Projects Repository
 
 Welcome to my repository! This repository contains a collection of my **Machine Learning**, **Python programming**, and **SQL projects**, including a final project where I predict stock prices using neural networks.  
 
